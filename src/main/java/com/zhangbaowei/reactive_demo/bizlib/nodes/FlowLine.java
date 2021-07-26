@@ -1,5 +1,8 @@
 package com.zhangbaowei.reactive_demo.bizlib.nodes;
 
+/**
+ * @author zhangbaowei
+ */
 public class FlowLine extends BaseNode {
 
     private String to;
